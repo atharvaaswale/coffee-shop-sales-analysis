@@ -1,0 +1,81 @@
+Astoria,Coffee,Afternoon (12PM-5PM),37250.050000000374,39.46
+Astoria,Tea,Afternoon (12PM-5PM),28942.049999999763,30.66
+Astoria,Drinking Chocolate,Afternoon (12PM-5PM),11553.5,12.24
+Astoria,Bakery,Afternoon (12PM-5PM),10817.5,11.46
+Astoria,Coffee beans,Afternoon (12PM-5PM),2647.7,2.8
+Astoria,Branded,Afternoon (12PM-5PM),1763,1.87
+Astoria,Loose Tea,Afternoon (12PM-5PM),820.0000000000008,0.87
+Astoria,Flavours,Afternoon (12PM-5PM),357.60000000000156,0.38
+Astoria,Packaged Chocolate,Afternoon (12PM-5PM),255.04,0.27
+Astoria,Coffee,Evening (6PM+),12487.650000000009,37.96
+Astoria,Tea,Evening (6PM+),9861.750000000036,29.98
+Astoria,Drinking Chocolate,Evening (6PM+),3736,11.36
+Astoria,Bakery,Evening (6PM+),3512,10.68
+Astoria,Coffee beans,Evening (6PM+),1868.6000000000004,5.68
+Astoria,Branded,Evening (6PM+),692,2.1
+Astoria,Loose Tea,Evening (6PM+),504.69999999999965,1.53
+Astoria,Flavours,Evening (6PM+),127.19999999999978,0.39
+Astoria,Packaged Chocolate,Evening (6PM+),105.05000000000001,0.32
+Astoria,Coffee,Morning (6AM-11AM),40006.60000000023,38.12
+Astoria,Tea,Morning (6AM-11AM),29036.099999999748,27.67
+Astoria,Bakery,Morning (6AM-11AM),12270.25,11.69
+Astoria,Drinking Chocolate,Morning (6AM-11AM),11045.75,10.53
+Astoria,Coffee beans,Morning (6AM-11AM),5702.899999999998,5.43
+Astoria,Branded,Morning (6AM-11AM),3002,2.86
+Astoria,Loose Tea,Morning (6AM-11AM),1869.3000000000043,1.78
+Astoria,Flavours,Morning (6AM-11AM),1279.9999999999836,1.22
+Astoria,Packaged Chocolate,Morning (6AM-11AM),729.6200000000005,0.7
+Hell's Kitchen,Coffee,Afternoon (12PM-5PM),30342.30000000045,42.26
+Hell's Kitchen,Tea,Afternoon (12PM-5PM),21013.849999999944,29.27
+Hell's Kitchen,Drinking Chocolate,Afternoon (12PM-5PM),8000.5,11.14
+Hell's Kitchen,Bakery,Afternoon (12PM-5PM),6864.049999999999,9.56
+Hell's Kitchen,Coffee beans,Afternoon (12PM-5PM),3106.5499999999997,4.33
+Hell's Kitchen,Loose Tea,Afternoon (12PM-5PM),1034.4500000000019,1.44
+Hell's Kitchen,Flavours,Afternoon (12PM-5PM),667.2000000000027,0.93
+Hell's Kitchen,Packaged Chocolate,Afternoon (12PM-5PM),435.0300000000002,0.61
+Hell's Kitchen,Branded,Afternoon (12PM-5PM),338,0.47
+Hell's Kitchen,Coffee,Evening (6PM+),10248.599999999997,40.56
+Hell's Kitchen,Tea,Evening (6PM+),7855.000000000013,31.09
+Hell's Kitchen,Drinking Chocolate,Evening (6PM+),2809.25,11.12
+Hell's Kitchen,Bakery,Evening (6PM+),2506.65,9.92
+Hell's Kitchen,Coffee beans,Evening (6PM+),936.5500000000001,3.71
+Hell's Kitchen,Loose Tea,Evening (6PM+),315.64999999999986,1.25
+Hell's Kitchen,Flavours,Evening (6PM+),286.4000000000004,1.13
+Hell's Kitchen,Packaged Chocolate,Evening (6PM+),167.84000000000003,0.66
+Hell's Kitchen,Branded,Evening (6PM+),140,0.55
+Hell's Kitchen,Coffee,Morning (6AM-11AM),50631.74999999957,36.31
+Hell's Kitchen,Tea,Morning (6AM-11AM),35832.44999999973,25.7
+Hell's Kitchen,Bakery,Morning (6AM-11AM),18016.25,12.92
+Hell's Kitchen,Coffee beans,Morning (6AM-11AM),14592.00000000001,10.46
+Hell's Kitchen,Drinking Chocolate,Morning (6AM-11AM),12776.5,9.16
+Hell's Kitchen,Loose Tea,Morning (6AM-11AM),3111.2499999999895,2.23
+Hell's Kitchen,Flavours,Morning (6AM-11AM),1923.199999999947,1.38
+Hell's Kitchen,Branded,Morning (6AM-11AM),1464,1.05
+Hell's Kitchen,Packaged Chocolate,Morning (6AM-11AM),1095.900000000001,0.79
+Lower Manhattan,Coffee,Afternoon (12PM-5PM),32043.100000000442,40.74
+Lower Manhattan,Tea,Afternoon (12PM-5PM),22060.44999999993,28.05
+Lower Manhattan,Bakery,Afternoon (12PM-5PM),9506.759999999991,12.09
+Lower Manhattan,Drinking Chocolate,Afternoon (12PM-5PM),7541.75,9.59
+Lower Manhattan,Coffee beans,Afternoon (12PM-5PM),3145.2,4
+Lower Manhattan,Branded,Afternoon (12PM-5PM),1790,2.28
+Lower Manhattan,Loose Tea,Afternoon (12PM-5PM),1067.4000000000015,1.36
+Lower Manhattan,Flavours,Afternoon (12PM-5PM),1062.3999999999965,1.35
+Lower Manhattan,Packaged Chocolate,Afternoon (12PM-5PM),429.71000000000015,0.55
+Lower Manhattan,Coffee,Evening (6PM+),3108.9499999999975,41.41
+Lower Manhattan,Tea,Evening (6PM+),2062.3999999999987,27.47
+Lower Manhattan,Bakery,Evening (6PM+),945.9799999999998,12.6
+Lower Manhattan,Drinking Chocolate,Evening (6PM+),619.5,8.25
+Lower Manhattan,Branded,Evening (6PM+),314,4.18
+Lower Manhattan,Coffee beans,Evening (6PM+),202.09999999999997,2.69
+Lower Manhattan,Flavours,Evening (6PM+),131.19999999999987,1.75
+Lower Manhattan,Loose Tea,Evening (6PM+),85.5,1.14
+Lower Manhattan,Packaged Chocolate,Evening (6PM+),38,0.51
+Lower Manhattan,Coffee,Morning (6AM-11AM),53833.44999999954,37.41
+Lower Manhattan,Tea,Morning (6AM-11AM),39741.89999999976,27.62
+Lower Manhattan,Bakery,Morning (6AM-11AM),17876.199999999975,12.42
+Lower Manhattan,Drinking Chocolate,Morning (6AM-11AM),14333.25,9.96
+Lower Manhattan,Coffee beans,Morning (6AM-11AM),7883.649999999998,5.48
+Lower Manhattan,Branded,Morning (6AM-11AM),4104,2.85
+Lower Manhattan,Flavours,Morning (6AM-11AM),2573.599999999961,1.79
+Lower Manhattan,Loose Tea,Morning (6AM-11AM),2405.3500000000004,1.67
+Lower Manhattan,Packaged Chocolate,Morning (6AM-11AM),1151.45,0.8
