@@ -27,8 +27,8 @@ This project provides a data-driven strategy for a multi-location coffee retail 
 
 ## 🛠️ **Tech Stack & Methodology**
 * **SQL:** Performed complex joins, CTEs, and window functions to aggregate transactional data into 5 core business queries.
-* **Python (Pandas):** Cleaned data, handled missing MoM values, and performed normalization.
-* **Seaborn & Matplotlib:** Created a unified "Viridis" themed dashboard for executive reporting.
+* **Python (Pandas):** Cleaned data, handled missing values, and performed normalization.
+* **Seaborn & Matplotlib:** Used "Viridis" theme to visualise data for executive reporting.
 
 ---
 
@@ -36,10 +36,3 @@ This project provides a data-driven strategy for a multi-location coffee retail 
 * **Bundle Strategy:** Launch a "Coffee + Pastry" combo to break the 1-item transaction ceiling.
 * **Menu Purge:** Remove the bottom 5 performing Loose Tea variants to reduce inventory complexity.
 * **Afternoon Pivot:** Increase marketing for Bakery and Drinking Chocolate after 12:00 PM to match shifting afternoon demand.
-
----
-
-## 📂 **Project Structure**
-* `sales-optimisation-analysis.ipynb`: Full Python source code and visualizations.
-* `Data/`: Cleaned CSV outputs from SQL queries.
-* `Visuals/`: High-resolution dashboard exports.
